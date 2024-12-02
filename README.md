@@ -1,7 +1,7 @@
-# T20 Cricket Data Analysis: Saving Earth from Planet Sporta!
+# T20 Cricket Data Analysis: Saving Earth from Planet Nova!
 
 ## Problem Statement
-Earth faces a cricket match challenge from Planet Sporta. The fate of our planet lies in assembling the best T20 cricket team based on statistical analysis of T20 World Cup data. The team must:
+Earth faces a cricket match challenge from Planet Nova. The fate of our planet lies in assembling the best T20 cricket team based on statistical analysis of T20 World Cup data. The team must:
 
 1. Score an average of 180 runs per game.
 2. Defend a target of 150 runs.
