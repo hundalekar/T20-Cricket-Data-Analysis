@@ -67,11 +67,11 @@ The analysis is visualized in an interactive Power BI dashboard.
 
 ## Repository Contents
 - **`data/csv_data`**: Contains csv files like batting_summary.csv, bowling_summary.csv, match_summary.csv, dim_players.csv.
-- - **`data/json_data`**: Contains json files like t20_wc_batting_summary.json, t20_wc_bowling_summary.json, t20_wc_match_summary.json, t20_wc_players.json.
+- **`data/json_data`**: Contains json files like t20_wc_batting_summary.json, t20_wc_bowling_summary.json, t20_wc_match_summary.json, t20_wc_players.json.
 - **`data/Paramaeter_Scoping.pdf`**: Detailed parameter criteria for player selection.
-- **`data/Project1.pbix`**: Power BI file containing the dashboard.
-- **`notebooks/code.ipynb`**: Python notebook for data analysis.
-- **`scripts/`**: Placeholder for Python scripts if applicable.
+- **`report/T20 Cricket Data Analysis Report.pbix`**: Power BI file containing the dashboard.
+- **`recording/recording1.mp4`**: Power BI file brief recording.
+- **`code/code.ipynb`**: Python notebook for data analysis.
 
 ## Final Output
 An interactive Power BI dashboard highlights the insights, culminating in the "Final Team" dashboard showcasing the top 11 players.
