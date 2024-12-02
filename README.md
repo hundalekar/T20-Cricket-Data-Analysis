@@ -16,7 +16,8 @@ The analysis is visualized in an interactive Power BI dashboard.
 2. Pandas
 3. Matplotlib
 4. Seaborn
-5. os
+5. json
+6. os
 
 ## Methodology
 ### Parameters Considered
