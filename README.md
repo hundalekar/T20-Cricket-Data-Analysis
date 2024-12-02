@@ -20,21 +20,21 @@ The analysis is visualized in an interactive Power BI dashboard.
 
 ## Methodology
 ### Parameters Considered
-**Openers**:
+**1. Openers**:
 - Batting Average: > 30
 - Strike Rate: > 140
 - Innings Batted: > 3
 - Boundary %: > 50%
 - Batting Position: < 4
 
-**Anchors / Middle Order**:
+**2. Anchors / Middle Order**:
 - Batting Average: > 40
 - Strike Rate: > 125
 - Innings Batted: > 3
 - Avg. Balls Faced: > 20
 - Batting Position: > 2
 
-**Finishers / Lower Order Anchors**:
+**3. Finishers / Lower Order Anchors**:
 - Batting Average: > 25
 - Strike Rate: > 130
 - Innings Batted: > 3
@@ -42,7 +42,7 @@ The analysis is visualized in an interactive Power BI dashboard.
 - Batting Position: > 4
 - Innings Bowled: > 1
 
-**All-Rounders**:
+**4. All-Rounders**:
 - Batting Average: > 15
 - Strike Rate: > 140
 - Innings Batted: > 2
@@ -51,7 +51,7 @@ The analysis is visualized in an interactive Power BI dashboard.
 - Bowling Economy: < 7
 - Bowling Strike Rate: < 20
 
-**Specialist Fast Bowlers**:
+**5. Specialist Fast Bowlers**:
 - Innings Bowled: > 4
 - Bowling Economy: < 7
 - Bowling Strike Rate: < 16
